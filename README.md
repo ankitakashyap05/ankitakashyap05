@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing solutions and quick hacks.
+- 🔭 &nbsp; I’m currently working on something cool
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH
-- 💼 &nbsp; Volunteer at Team Vibhav Nith.
 - 🌱 &nbsp; Learning more about Machine Learning & other technical things.
 
 
