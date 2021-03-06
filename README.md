@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; I’m currently working on something cool
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH
-- 🌱 &nbsp; Learning more about Machine Learning & other technical things.
+
 
 
  <br/>
