@@ -1,7 +1,3 @@
-### Hey there 👋
-
-
-- 🔭 I’m currently working on something cool
 <img src="icon.png" align="right" />
 <h2> Hey there!</h2> <h1> Ankita Kashyap this side!</h1>
 
