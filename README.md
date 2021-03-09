@@ -4,8 +4,8 @@
 <h3> About Me </h3>
 
 - 🔭 I’m currently working on something cool                
-- 🎓 &nbsp; Studying E&CE at National Insititute of Technology,Hamirpur.
-- 💼 &nbsp; Volunteer at SPEC-NITH
+- 🎓 Studying E&CE at National Insititute of Technology,Hamirpur.
+- 💼 Volunteer at SPEC-NITH
 - 🔭 Paranoid about convention, consistency, and constraints.
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
@@ -14,7 +14,7 @@
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
-<p>Feel free to contact anytime.</p>
+<a rel="noreferrer"href="ankitakashyap121@gmail.com/" target="_blank" ><img alt="Gmail" src="https://img.shields.io/badge/gmail%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <a rel="noreferrer"href="https://www.linkedin.com/in/ankita-kashyap-ba9406174/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/home?lang=en-in"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" /></a>
