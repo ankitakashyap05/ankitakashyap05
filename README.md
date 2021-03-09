@@ -11,7 +11,7 @@
 
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=#fd79a8&icon_color=#fd79a8&text_color=ffffff&bg_color=#34495e" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=#fd79a8&icon_color=#fd79a8&text_color=#fd79a8&bg_color=#34495e" width="45%" />
  
 </a
 
