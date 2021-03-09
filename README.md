@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on something cool
-- 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititute of Technology,Hamirpur.
+- 🎓 &nbsp; Studying E&CE at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH
 
 
