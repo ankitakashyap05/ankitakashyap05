@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="OIP (3).jpg" align="right" />
 <h2> Hey there!</h2> <h1> Ankita Kashyap this side!</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
