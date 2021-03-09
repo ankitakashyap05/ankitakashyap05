@@ -9,7 +9,7 @@
 - 🔭 Paranoid about convention, consistency, and constraints.
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&theme=pink&show_icons=true&title_color=ffffff&icon_color=ffcccc&text_color=ffffff&bg_color=2c2c54" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&theme=pink&show_icons=true&title_color=ffffff&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
  
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
