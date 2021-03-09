@@ -3,25 +3,16 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on something cool
+- 🔭 &nbsp; I’m currently working on something cool                
 - 🎓 &nbsp; Studying E&CE at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH
 - 🔭 Paranoid about convention, consistency, and constraints.
-
-
-
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&theme=dracula&show_icons=true&title_color=#fd79a8&icon_color=#fd79a8&text_color=#fd79a8&bg_color=#fd79a8" width="45%" />
  
 </a
 
-<a href="https://github.com/ankitakashyap05">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitakashyap05&theme=buefy&layout=compact" />
-</a>
-<br>
-<br>
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
 <p>Feel free to contact anytime.</p>
