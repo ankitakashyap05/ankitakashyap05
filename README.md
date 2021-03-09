@@ -1,9 +1,9 @@
 <img src="OIP (3).jpg" align="right" />
-<h2> Hey there!</h2> <h1> Ankita Kashyap this side!</h1>
+<h1> Ankita Kashyap this side!</h1>
 
-<h3> 👧‍💻 About Me </h3>
+<h3> About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on something cool                
+- 🔭 I’m currently working on something cool                
 - 🎓 &nbsp; Studying E&CE at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH
 - 🔭 Paranoid about convention, consistency, and constraints.
