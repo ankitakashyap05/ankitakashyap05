@@ -6,19 +6,16 @@
 - 🔭 &nbsp; I’m currently working on something cool
 - 🎓 &nbsp; Studying E&CE at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH
+- 🔭 Paranoid about convention, consistency, and constraints.
 
 
 
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=#fd79a8&icon_color=#fd79a8&text_color=#fd79a8&bg_color=#34495e" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&theme=dracula&show_icons=true&title_color=#fd79a8&icon_color=#fd79a8&text_color=#fd79a8&bg_color=#fd79a8" width="45%" />
  
 </a
 
-<h3>⚙️ GitHub Analytics </h3>
-<a href="https://github.com/ankitakashyap05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
-</a>
 <a href="https://github.com/ankitakashyap05">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitakashyap05&theme=buefy&layout=compact" />
