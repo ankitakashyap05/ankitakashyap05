@@ -1,4 +1,4 @@
-<img src="OIP (3).jpg" align="right" />
+<img src="ak.jpg" align="right" />
 <h1> Ankita Kashyap this side!</h1>
 
 <h3> About Me </h3>
