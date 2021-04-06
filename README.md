@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on something cool                
 - 🎓 Studying E&CE at National Insititute of Technology,Hamirpur
 - 💼 Volunteer at SPEC-NITH
+- 💼 Volunteer at Team Vibhav
 - 🔭 Paranoid about convention, consistency, and constraints
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
