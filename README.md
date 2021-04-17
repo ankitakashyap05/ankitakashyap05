@@ -11,7 +11,7 @@
  <a href="https://github.com/ankitakashyap05?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=white&text_color=ffffff&bg_color=0d111a" width="45%" />
  
  
 <h3>🤝🏻Connect with Me </h3>
