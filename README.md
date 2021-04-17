@@ -1,9 +1,7 @@
 <img src="ak.jpg" align="right" />
 <h1> Ankita Kashyap this side!</h1>
 
-<h3> About Me </h3>
-
-- 🔭 I’m currently working on something cool                
+<h3> About Me </h3>            
 - 🎓 Studying E&CE at National Insititute of Technology,Hamirpur
 - 💼 Volunteer at SPEC-NITH
 - 💼 Volunteer at Team Vibhav
@@ -12,7 +10,7 @@
  <a href="https://github.com/ankitakashyap05?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
 
-</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" /></td></tr></table>
+</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" /></td></tr></table>
 
  
  
