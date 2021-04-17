@@ -13,10 +13,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
  
 
+</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&theme=dracula" width="45%""/></td></tr></table>
 ![](https://visitor-badge.glitch.me/badge?page_id=ankitakashyap05.ankitakashyap05)
-
-</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=000000" width="45%""/></td></tr></table>
-
 <h3>🤝🏻Connect with Me </h3>
 <p>
 <a rel="noreferrer"href="https://www.linkedin.com/in/ankita-kashyap-ba9406174/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
