@@ -26,11 +26,6 @@
 
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=ankitakashyap05.ankitakashyap05)
 
-
-
-
-
-
-
-</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td></tr></table>
+</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitakashyap05&theme=gotham"/></td></tr></table>
