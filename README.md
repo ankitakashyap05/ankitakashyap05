@@ -33,4 +33,4 @@
 
 
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=itssingh&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td></tr></table>
+</td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=itssingh&theme=gotham"/></td></tr></table>
