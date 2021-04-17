@@ -1,7 +1,8 @@
 <img src="ak.jpg" align="right" />
 <h1> Ankita Kashyap this side!</h1>
 
-<h3> About Me </h3>            
+<h3> About Me </h3>  
+
 - 🎓 Studying E&CE at National Insititute of Technology,Hamirpur
 - 💼 Volunteer at SPEC-NITH
 - 💼 Volunteer at Team Vibhav
