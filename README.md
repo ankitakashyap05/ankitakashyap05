@@ -4,9 +4,9 @@
 <h3> About Me </h3>  
 
 - 🎓 Studying E&CE at National Insititute of Technology,Hamirpur
-- 💼 Volunteer at Team Vibhav
 - 🔭 Paranoid about convention, consistency, and constraints
 - 💼 Volunteered at SPEC-NITH
+- 💼 Volunteer at Team Vibhav
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitakashyap05&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
